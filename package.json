@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "fastmcp": "^4.0.2",
+    "jose": "^5.10.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
